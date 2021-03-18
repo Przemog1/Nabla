@@ -60,7 +60,7 @@ bool nbl_glsl_workgroupAny(in bool value)
 	return retval;
 }
 
-/** TODO: Recruitment task or Intern
+/** TODO @Cyprian or @Anastazluk
 bool nbl_glsl_workgroupAllEqual(in bool val);
 float nbl_glsl_workgroupAllEqual(in float val);
 uint nbl_glsl_workgroupAllEqual(in uint val);
